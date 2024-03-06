@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.47ebaba6.css",
+    "main.js": "/portfolio/static/js/main.02957de0.js",
+    "static/media/Seshagiri R.pdf": "/portfolio/static/media/Seshagiri R.382150c017442fe5bc4b.pdf",
+    "static/media/seshu.jpg": "/portfolio/static/media/seshu.88ac2752965b4673878c.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.47ebaba6.css.map": "/portfolio/static/css/main.47ebaba6.css.map",
+    "main.02957de0.js.map": "/portfolio/static/js/main.02957de0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47ebaba6.css",
+    "static/js/main.02957de0.js"
+  ]
+}
