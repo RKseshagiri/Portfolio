@@ -15,10 +15,6 @@ const Footer = () => {
           </li>
 
           <li>
-            <a href="#portfoloi" className="footer__link" Projects></a>
-          </li>
-
-          <li>
             <a href="#qualification" className="footer__link">
               Qualification
             </a>
@@ -30,6 +26,7 @@ const Footer = () => {
             href="https://www.instagram.com/_._lovely_lad_._?igsh=b2RtajJ6ZGFhNGl1&utm_source=qr"
             className="home__social-icon"
             target="_blank"
+            rel="noreferrer"
           >
             <i className="uil uil-instagram"></i>
           </a>
@@ -38,6 +35,7 @@ const Footer = () => {
             href="https://www.linkedin.com/in/seshagiri-ravindrabalan-395100171"
             className="home__social-icon"
             target="_blank"
+            rel="noreferrer"
           >
             <i className="uil uil-linkedin"></i>
           </a>
@@ -46,13 +44,19 @@ const Footer = () => {
             href="https://github.com/RKseshagiri"
             className="home__social-icon"
             target="_blank"
+            rel="noreferrer"
           >
             <i className="uil uil-github-alt"></i>
           </a>
         </div>
         <div className="footer__contact">
-        <a  href = "mailto: seshagiri004@gmail.com" ><i className="uil uil-envelope-alt" /> seshagiri004@gmail.com</a>
-        <div className="phone"> <i class="uil uil-phone"></i> +91 9080539067</div>
+          <a href="mailto: seshagiri004@gmail.com">
+            <i className="uil uil-envelope-alt" /> seshagiri004@gmail.com
+          </a>
+          <div className="phone">
+            {" "}
+            <i class="uil uil-phone"></i> +91 9080539067
+          </div>
         </div>
       </div>
     </footer>
