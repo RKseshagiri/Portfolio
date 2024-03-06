@@ -17,7 +17,7 @@ function About() {
           <Info />
           <p className="about__description">I'm Seshagiri R, a frontend developer specializing in React.js. With 1.4 years of experience in Mendix, I'm now focused on pursuing opportunities in React.js frontend development. Passionate about crafting engaging user experiences and staying updated with the latest technologies. Seeking new opportunities to contribute to innovative projects.</p>
 
-          <a download="" href={CV} className="button button--flex">Download CV 
+          <a download="Seshagiri.R-CV.pdf" href={CV} className="button button--flex">Download CV 
           <svg
                 class="button__icon"
                 xmlns="http://www.w3.org/2000/svg"
