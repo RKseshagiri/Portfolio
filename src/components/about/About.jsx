@@ -1,7 +1,7 @@
 import React from 'react';
 import "./about.css";
 import AboutImg from "../../assets/seshu.jpg";
-import CV from "../../assets/Seshagiri R.pdf"
+import CV from "../../assets/Seshagiri.R.pdf"
 import Info from './Info';
 
 function About() {
@@ -15,7 +15,7 @@ function About() {
 
         <div className="about__data">
           <Info />
-          <p className="about__description">I'm Seshagiri R, a frontend developer specializing in React.js. With 1.4 years of experience in Mendix, I'm now focused on pursuing opportunities in React.js frontend development. Passionate about crafting engaging user experiences and staying updated with the latest technologies. Seeking new opportunities to contribute to innovative projects.</p>
+          <p className="about__description">I am Seshagiri R, a Full-Stack developer with 1.4 years of experience in Mendix. Now, I am focused on pursuing opportunities in Full-Stack development. Passionate about crafting engaging user experiences and staying updated with the latest technologies, I am seeking new opportunities to contribute to innovative projects.</p>
 
           <a download="Seshagiri.R-CV.pdf" href={CV} className="button button--flex">Download CV 
           <svg

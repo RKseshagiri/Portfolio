@@ -55,9 +55,9 @@ function Data() {
                   ></path>
                 </svg>
         </h1>
-        <h3 className='home__subtitle'>Front-End Developer</h3>
+        <h3 className='home__subtitle'>Full-Stack Developer</h3>
         <p className='home__description'>
-        Welcome to my portfolio! I'm a dedicated front-end developer passionate about creating engaging and dynamic web experiences.</p>
+        Welcome to my portfolio! I'm a dedicated Full-Stack developer passionate about creating engaging and dynamic web experiences.</p>
       <a href="#footer" className="button button--flex">
         To Contact
         <svg
